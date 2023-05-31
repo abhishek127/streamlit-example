@@ -2,5 +2,5 @@ streamlit
 transformers
 spacy
 gensim
-torch
-altair
+tensorflow
+
